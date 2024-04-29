@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlang-weather
+dlang-weather.so
+dlang-weather.dylib
+dlang-weather.dll
+dlang-weather.a
+dlang-weather.lib
+dlang-weather-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
